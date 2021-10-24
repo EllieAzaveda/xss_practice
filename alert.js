@@ -1,1 +1,1 @@
-alert("XXS")
+alert("XSS")
